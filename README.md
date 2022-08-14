@@ -5,12 +5,12 @@
  | --------------          | ------
  | Sanity Check | 10
  | World's Greatest Detective | 25
- | Alien Communication | 100
- | Secret Document | 227
- | Heaven | 313
- | Hidden File | 280 
- | Tring Tring.... | 100
- | OX9OR2 | 200
+ | [Alien Communication](https://github.com/LeonGurin/Shell-CTF-2022/tree/main/Alien%20Communication) | 100
+ | [Secret Document](https://github.com/LeonGurin/Shell-CTF-2022/tree/main/Secret%20Document) | 227
+ | [Heaven](https://github.com/LeonGurin/Shell-CTF-2022/tree/main/Heaven) | 313
+ | [Hidden File](https://github.com/LeonGurin/Shell-CTF-2022/tree/main/Hidden%20File) | 280 
+ | [Tring Tring....](https://github.com/LeonGurin/Shell-CTF-2022/tree/main/Tring%20Tring....) | 100
+ | [OX9OR2](https://github.com/LeonGurin/Shell-CTF-2022/tree/main/OX9OR2) | 200
  | Pulling the strings | 50
  | How to defeat a dragon | 100
  | warmup | 100
