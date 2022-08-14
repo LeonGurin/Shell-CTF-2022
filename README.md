@@ -4,12 +4,12 @@
  | Challenge Name          | Points
  | --------------          | ------
  | Sanity Check | 10
- | World's Greatest Detective | 25
+ | [World's Greatest Detective](https://github.com/LeonGurin/Shell-CTF-2022/tree/main/World's%20Greatest%20Detective) | 25
  | [Alien Communication](https://github.com/LeonGurin/Shell-CTF-2022/tree/main/Alien%20Communication) | 100
  | [Secret Document](https://github.com/LeonGurin/Shell-CTF-2022/tree/main/Secret%20Document) | 227
  | [Heaven](https://github.com/LeonGurin/Shell-CTF-2022/tree/main/Heaven) | 313
  | [Hidden File](https://github.com/LeonGurin/Shell-CTF-2022/tree/main/Hidden%20File) | 280 
- | [Tring Tring....](https://github.com/LeonGurin/Shell-CTF-2022/tree/main/Tring%20Tring....) | 100
+ | [Tring Tring....](https://github.com/LeonGurin/Shell-CTF-2022/tree/main/Tring%20Tring) | 100
  | [OX9OR2](https://github.com/LeonGurin/Shell-CTF-2022/tree/main/OX9OR2) | 200
  | Pulling the strings | 50
  | How to defeat a dragon | 100

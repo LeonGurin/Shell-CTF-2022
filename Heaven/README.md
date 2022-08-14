@@ -4,7 +4,7 @@
 
 "I was in the seventh heaven painted red green and blue"
 
-_Given:_ [Seventh_Heaven_Image]()
+_Given:_ [Seventh_Heaven_Image](https://github.com/LeonGurin/Shell-CTF-2022/blob/main/Heaven/Seventh_Heaven_Image.jpeg)
 
 ___
 

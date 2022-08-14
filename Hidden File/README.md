@@ -4,7 +4,7 @@
 
 Our Agent gave us this image can you find whats there with this image?
 
-_Given:_ [Hidden.jpg]()
+_Given:_ [Hidden.jpg](https://github.com/LeonGurin/Shell-CTF-2022/blob/main/Hidden%20File/Hidden.jpg)
 
 ___
 
